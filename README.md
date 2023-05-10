@@ -5,6 +5,7 @@
 
 **仅供学习参考**
 
-<img src="C:\Users\wuyou\Pictures\胡桃.png" alt="胡桃" style="zoom:50%;" />
+![Image text](https://github.com/Niloux3d/chatRoomm_server/blob/main/IMG/胡桃.png)
 
 <!--*PS：胡桃真可爱*-->
+

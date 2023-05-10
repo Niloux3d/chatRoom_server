@@ -5,7 +5,7 @@
 
 **仅供学习参考**
 
-![](C:\Users\wuyou\Pictures\胡桃.png)
+<img src="C:\Users\wuyou\Desktop\TestProjectCode\网络聊天室\chatRoom_server\IMG\胡桃.png" style="zoom:50%;" />
 
-<!--*PS：胡桃真可爱*-->
+<!--PS：胡桃真可爱-->
 

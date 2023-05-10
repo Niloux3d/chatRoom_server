@@ -5,7 +5,7 @@
 
 **仅供学习参考**
 
-![Image text](https://github.com/Niloux3d/chatRoomm_server/blob/main/IMG/胡桃.png)
+![](C:\Users\wuyou\Pictures\胡桃.png)
 
 <!--*PS：胡桃真可爱*-->
 

@@ -5,6 +5,6 @@
 
 **仅供学习参考**
 
-![胡桃](C:\Users\wuyou\Pictures\胡桃.png)
+<img src="C:\Users\wuyou\Pictures\胡桃.png" alt="胡桃" style="zoom:50%;" />
 
 <!--*PS：胡桃真可爱*-->
